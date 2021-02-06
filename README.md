@@ -12,6 +12,13 @@ sno| name | college
 2  |mastan|sacet
 ____
 :blush:	asif
+____
+how to init github project 
+_____
+- [ ] git add .
+- [x] git init
+- [ ] git remote
+- [ ] git branch
 
 
 
